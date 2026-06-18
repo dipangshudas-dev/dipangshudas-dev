@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img width="960" height="540" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/b500c5bc-d14e-4915-9bae-bd25e4100c8d" />
-
+<img width="615" height="262" alt="download" src="https://github.com/user-attachments/assets/a8752fe8-f549-4ff4-ada4-79066423d1a1" />
 <!--
 **dipangshudas-dev/dipangshudas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
