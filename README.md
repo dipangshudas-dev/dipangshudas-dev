@@ -34,9 +34,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dipangshudas-dev&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=444444"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipangshudas-dev&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&border_color=444444"/>
-</p>
-
 ---
 
 <p align="center">
