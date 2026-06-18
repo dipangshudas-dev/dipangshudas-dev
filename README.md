@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dipangshu Das</h1>
+<h1 align="center">
+  Hi
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="35" height="35">
+  </picture>,
+  I'm Dipangshu Das
+</h1>
 
 <h3 align="center">CSE Student | Aspiring Software Engineer | AI & DSA Enthusiast</h3>
 
